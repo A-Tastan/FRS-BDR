@@ -5,7 +5,7 @@ The block diagonal structure of an affinity matrix is a commonly desired propert
 
 For details, see:
 
-[1] A. Taştan, M. Muma and A. M. Zoubir, “Fast and Robust Sparsity-Aware Block Diagonal Representation,” IEEE Trans. Signal Process.(submitted), 2023.
+[1] A. Taştan, M. Muma and A. M. Zoubir, “Fast and Robust Sparsity-Aware Block Diagonal Representation,” IEEE Trans. Signal Process., 2023.
 
-The codes will be available after the acceptence.
+
 
